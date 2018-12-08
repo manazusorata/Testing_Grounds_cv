@@ -3,7 +3,6 @@
 
 #include "ChooseNextWayPoint_cpp.h"
 #include"AIController.h"
-#include"PatrolingGuard.h"
 #include"Patrol_Route.h"
 #include"BehaviorTree/BlackboardComponent.h"
 
